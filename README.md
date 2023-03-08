@@ -1,2 +1,6 @@
-# .github
-Whispering... Cosmian/.github is a ✨special ✨ repository that you can use to add a README.md to your public organization profil
+![Cosmian Logo](https://cosmian.com/)
+## Cosmian Github Repository
+
+Cosmian provides API to secure the sorage and processing of sensitive data in zero-trust encironments suchas as he public cloud. These APIs use advanced cryptographic techniques.
+
+
