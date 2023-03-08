@@ -13,4 +13,4 @@ These librairies available in multiple languages (Java, Python, JS, etc...), pro
 The user API librairies are all prefixed `cloudproof_[LANGUAGE]`
 
 ### Microservice-Encryption
-The librairies are the building blocks of the MSE platform which lets you run ecnrypted code over encrypted data. Visit the [console](https://console.cosmian.com) for details.
+The librairies are the building blocks of the MSE platform which lets you run encrypted Python code over encrypted data. Visit the [console](https://console.cosmian.com) for details.
