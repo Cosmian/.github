@@ -10,7 +10,7 @@ We encourage developers to explore, learn, and collaborate with us to build secu
 
 ### Cloudproof Libraries
 These librairies available in multiple languages (Java, Python, JS, etc...), provide the building block to build privacy default applications with advanced encryption (Covercrypt: post quantum, access policies, etc..) and encrypted indexes (Findex)
-The user API librairies are all prefixed `clouproof_[LANGUAGE]`
+The user API librairies are all prefixed `cloudproof_[LANGUAGE]`
 
 ### Microservice-Encryption
 The librairies are the building blocks of the MSE platform which lets you run ecnrypted code over encrypted data. Visit the [console]{https://console.cosmian.com) for details.
