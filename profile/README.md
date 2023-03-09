@@ -1,15 +1,15 @@
 ![Cosmian Logo](https://cosmian.com/wp-content/uploads/2022/10/Logo-2.svg)
 ## Open source Github repository
 
-Cosmian provides API to secure the storage and processing of sensitive data in zero-trust environments such as the public cloud. These APIs use advanced cryptographic techniques. Since one must know what protects its sensitive data, everything Cosmian does is open sourced and available in this repository.
+Cosmian provides API to secure the storage and processing of sensitive data in zero-trust environments such as the public cloud. These APIs use advanced cryptographic techniques. Since one must know what protects its sensitive data, everything Cosmian does is open source and available in this repository.
 
-Here, you will find the source code for Cosmian's products and services, including examples. API and usage documentation is available at [docs.cosmian.com](https://docs.cosmian.com)
+APIs and usage documentation is available at [docs.cosmian.com](https://docs.cosmian.com)
 
 We encourage developers to explore, learn, and collaborate with us to build secure applications that protect their sensitive data.
 
 ### Cloudproof Libraries
-These librairies available in multiple languages (Java, Python, JS, etc...), provide the building block to build privacy default applications with advanced encryption (Covercrypt: post quantum, access policies, etc..) and encrypted indexes (Findex)
-The user API librairies are all prefixed `cloudproof_[LANGUAGE]`
+These librairies available in multiple languages (Java, Python, JS, etc...), provide the building block to build privacy default applications with advanced encryption ( [Covercrypt](https://github.com/Cosmian/cover_crypt): post quantum, access policies, etc..) and encrypted indexes ([Findex](https://github.com/Cosmian/findex))
+The user API librairies all follow the naming convention `cloudproof_[LANGUAGE]`: `cloudproof_js`, `cloudproof_java`, `cloudproof_python`, ...
 
 ### Microservice Encryption
-The librairies are the building blocks of the MSE platform which lets you run encrypted Python code over encrypted data. Visit the [console](https://console.cosmian.com) for details.
+The librairies are the building blocks of the MSE platform which lets you run encrypted Python code over encrypted data. Visit the [console](https://console.cosmian.com) for details. All code related to MSE is tagged with the `mse`topic.
