@@ -12,4 +12,4 @@ These librairies available in multiple languages and provide the building block 
 The user API librairies follow the naming convention `cloudproof_[LANGUAGE]`: [`cloudproof_js`](https://github.com/Cosmian/cloudproof_js), [`cloudproof_java`](https://github.com/Cosmian/cloudproof_java), [`cloudproof_python`](https://github.com/Cosmian/cloudproof_python), [`cloudproof_rust`](https://github.com/Cosmian/cloudproof_rust), ...
 
 ### Microservice Encryption
-The librairies are the building blocks of the MSE platform which lets you run encrypted Python code over encrypted data. Visit the [console](https://console.cosmian.com) for details. All code related to MSE is tagged with the [`mse`](https://github.com/search?q=topic%3Amse+org%3ACosmian+fork%3Atrue&type=repositories) topic.
+The librairies are the building blocks of the MSE platform which lets you run encrypted Python code over encrypted data. Visit the [console](https://console.cosmian.com) to create a freemium account. All code related to MSE is tagged with the [`mse`](https://github.com/search?q=topic%3Amse+org%3ACosmian+fork%3Atrue&type=repositories) topic.
