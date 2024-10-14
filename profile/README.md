@@ -1,4 +1,4 @@
-![Cosmian Logo](https://cosmian.com/wp-content/uploads/2022/10/Logo-2.svg)
+![Cosmian Logo](https://cosmian.com/wp-content/uploads/2024/03/Cosmian-Logo.svg) 
 
 ## Open source Github repository
 
