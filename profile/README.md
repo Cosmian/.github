@@ -21,10 +21,10 @@ All code related to the libraries is tagged with the [`cloudproof`](https://gith
 
 ### Cosmian Enclave and Cosmian VM
 
-Cosmian Enclave (formerly MSE) lets you run encrypted Python code (or Singularity containers) over encrypted data, while Cosmian VM lets you secure any application in the cloud.
-Visit the [console](https://console.cosmian.com) to create a Cosmian Enclave SaaS freemium account or our [docs](https://docs.cosmian.com) to run Cosmian Enclave on bare metal machines and understand the differences with Cosmian VM.
+Cosmian Enclave (formerly MSE) lets you run encrypted Python code in SGX enclave, while Cosmian VM lets you secure any application in the cloud using Confidential VMs.
 
-All code related to Cosmian Enclave is tagged with the [`mse`](https://github.com/search?q=topic%3Amse+org%3ACosmian+fork%3Atrue&type=repositories) topic.
+All code related to Cosmian Enclave is tagged with the [`enclave`](https://github.com/search?q=topic%3Aenclave+org%3ACosmian+fork%3Atrue&type=repositories) topic.
 
 ### Cosmian KMS
+
 [Check out](https://github.com/Cosmian/kms) this open-source, highly scalable, KMIP 2.1-compliant Key Management Server written in Rust. We will soon update the license so that it can be run for **FREE** on small-sized machines in production. Stay tuned.
